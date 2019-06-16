@@ -1,0 +1,11 @@
+body {
+    background-color: wheat;
+}
+tr {
+    margin: 5px 15px;
+    border-bottom: 1px solid red; 
+}
+#box {
+    margin: 20px;
+    padding: 10px;
+}
